@@ -1,6 +1,6 @@
 # Introduction
 
-** Still Working on this project**
+**Project in Progress**
 
 The goal of this project is to perform an exploratory data analysis of the Airbnb listings dataset, as well as build a model to predict the price of an Airbnb listing based on certain features. This project will follow the CRISP-DM (Cross Industry Standard Process for Data Mining) framework, which is a widely-used and flexible process for conducting data mining projects.
 
