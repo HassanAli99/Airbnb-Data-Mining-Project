@@ -33,7 +33,7 @@ The CRISP-DM process is designed to ensure that data mining projects are well-st
 
 ## Modelling
 1. Simple Price Prediction
-2. More complex price prediction (Maybe)
+2. More complex price prediction
 
 ## Evaluation
 
